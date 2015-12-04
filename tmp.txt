@@ -3,3 +3,6 @@ Here is some text.
 JVL More text.
 
 And some more.
+
+Here are some changes made on the master branch.
+  Let's see what happens when we rebase vs. merge.
